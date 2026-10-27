@@ -1,3 +1,6 @@
+#name:kuanchengtai
+#assignment one
+
 import turtle
 
 screen = turtle.Screen()
